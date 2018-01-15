@@ -20,8 +20,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
-              <caret line="291" column="35" lean-forward="true" selection-start-line="291" selection-start-column="35" selection-end-line="291" selection-end-column="35" />
+            <state relative-caret-position="300">
+              <caret line="20" column="43" lean-forward="true" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
               <folding>
                 <element signature="e#13498#13504#0" expanded="true" />
                 <element signature="e#14037#14044#1" expanded="true" />
@@ -209,7 +209,7 @@
       <updated>1515923786881</updated>
       <workItem from="1515923798501" duration="1935000" />
       <workItem from="1515927014666" duration="682000" />
-      <workItem from="1515973192782" duration="5489000" />
+      <workItem from="1515973192782" duration="5587000" />
     </task>
     <task id="LOCAL-00001" summary="add scss">
       <created>1515924375949</created>
@@ -253,11 +253,18 @@
       <option name="project" value="LOCAL" />
       <updated>1515979210381</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add footer and Contact Modal">
+      <created>1515980060317</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1515980060317</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8106000" />
+    <option name="totallyTimeSpent" value="8204000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -298,7 +305,8 @@
     <MESSAGE value="Home Section" />
     <MESSAGE value="Explore Section Area" />
     <MESSAGE value="Create &amp; Share Section Areas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create &amp; Share Section Areas" />
+    <MESSAGE value="Add footer and Contact Modal" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add footer and Contact Modal" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -425,8 +433,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="291" column="35" lean-forward="true" selection-start-line="291" selection-start-column="35" selection-end-line="291" selection-end-column="35" />
+        <state relative-caret-position="300">
+          <caret line="20" column="43" lean-forward="true" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
           <folding>
             <element signature="e#13498#13504#0" expanded="true" />
             <element signature="e#14037#14044#1" expanded="true" />
