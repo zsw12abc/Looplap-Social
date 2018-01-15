@@ -46,10 +46,20 @@ body {
   }
 }
 
-#explore-section {
+#explore-section, #share-section {
   .fa {
     color: white;
     background: #333;
+    padding: 4px;
+    border-radius: 5px;
+    font-size: $icon-size;
+  }
+}
+
+#create-section {
+  .fa {
+    color: $primary-color;
+    background: white;
     padding: 4px;
     border-radius: 5px;
     font-size: $icon-size;
